@@ -128,16 +128,9 @@ python data_cleaning.py
 
 ---
 
-## 🔗 Master Portfolio
-
-📂 [View Full Internship Portfolio](#)  
-*(Link to master portfolio repo)*
-
----
-
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**Shaik Mohammed Kaif**  
 B.Tech CSE (AI & ML) | G. Pulla Reddy Engineering College, Kurnool  
 Data Analytics Intern @ ApexPlanet Software Pvt. Ltd.  
 
