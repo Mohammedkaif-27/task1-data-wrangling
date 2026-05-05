@@ -134,9 +134,6 @@ python data_cleaning.py
 B.Tech CSE (AI & ML) | G. Pulla Reddy Engineering College, Kurnool  
 Data Analytics Intern @ ApexPlanet Software Pvt. Ltd.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](#)
-
 ---
 
 *Part of the ApexPlanet 60-Day Data Analytics Internship Program*
